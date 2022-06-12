@@ -4,6 +4,10 @@ html {
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    margin: 0;
+}
+
 .hero {
     background-color: #1F2937;
     color: white;

@@ -71,7 +71,7 @@ ul {
     flex-direction: column;
     align-items: flex-start;
     gap: 8px;
-    padding: 16px;
+    padding: 16px 0;
 }
 
 .hero {

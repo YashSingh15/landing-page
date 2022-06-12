@@ -4,6 +4,10 @@ html {
     font-family: 'Roboto', sans-serif;
 }
 
+html * {
+    border: 2px solid red;
+}
+
 body {
     margin: 0;
 }
@@ -56,8 +60,9 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 50px;
 }
 
 .website-info {
-    max-width: 300px;
+    max-width: 450px;
 }

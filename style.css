@@ -5,7 +5,7 @@ html {
 }
 
 html * {
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 body {
@@ -60,7 +60,7 @@ ul {
 
 .main {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     gap: 20px;
 }

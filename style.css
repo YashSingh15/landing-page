@@ -5,7 +5,7 @@ html {
 }
 
 html * {
-    /* border: 2px solid red; */
+    border: 2px solid red;
 }
 
 body {
@@ -15,6 +15,7 @@ body {
 .hero {
     background-color: #1F2937;
     color: white;
+    height: 500px;
 }
 
 .main-text {
@@ -61,9 +62,14 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 20px;
 }
 
 .website-info {
     max-width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 16px;
 }

@@ -84,3 +84,9 @@ ul {
 .hero > div {
     width: 70vw;
 }
+
+.information-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 800;
+}

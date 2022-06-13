@@ -99,6 +99,8 @@ ul {
     display: flex;
     margin: 0 auto;
     gap: 32px;
+    margin-bottom: 80px;
+    justify-content: space-between;
 }
 
 .illustration {

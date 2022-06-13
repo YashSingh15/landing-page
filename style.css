@@ -117,9 +117,20 @@ ul {
     background-color: #E5E7EB;
 }
 
+.quote-section > div {
+    width: 60vw;
+    margin: 0 auto;
+}
+
 .quote {
     font-size: 36px;
     font-weight: lighter;
     color: #1F2937;
     font-style: italic;
+}
+
+.quote-by {
+    font-weight: bold;
+    direction: rtl;
+    font-size: 18px;
 }

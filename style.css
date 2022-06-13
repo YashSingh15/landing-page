@@ -5,7 +5,7 @@ html {
 }
 
 html * {
-    /* border: 2px solid red; */
+    border: 2px solid red;
 }
 
 body {
@@ -115,6 +115,9 @@ ul {
 
 .quote-section {
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 0;
 }
 
 .quote-section > div {

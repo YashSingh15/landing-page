@@ -37,6 +37,7 @@ body {
     color: #F9FAF8;
     padding: 8px 32px;
     border-radius: 10px;
+    border: 2px solid #1F2937;
 }
 
 .header {

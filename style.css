@@ -138,3 +138,11 @@ ul {
     direction: rtl;
     font-size: 18px;
 }
+
+.sign-up-section {
+    background-color: #3882F6;
+    width: 70vw;
+    margin: 80px auto;
+    padding: 40px 80px;
+    box-sizing: border-box;
+}

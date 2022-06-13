@@ -105,3 +105,8 @@ ul {
     text-align: center;
     color: gray;
 }
+
+.illustration-image img {
+    border-radius: 10px;
+    border: 4px solid #3882F6;
+}

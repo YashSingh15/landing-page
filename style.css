@@ -5,7 +5,7 @@ html {
 }
 
 html * {
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 body {
@@ -118,6 +118,7 @@ ul {
     display: flex;
     flex-direction: column;
     padding: 100px 0;
+    gap: 8px;
 }
 
 .quote-section > div {

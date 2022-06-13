@@ -91,6 +91,7 @@ ul {
     font-weight: 800;
     display: flex;
     justify-content: center;
+    margin: 50px;
 }
 
 .illustrations {

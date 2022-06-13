@@ -10,7 +10,6 @@ body {
 
 .hero {
     background-color: #1F2937;
-
     height: 500px;
 }
 
@@ -38,7 +37,6 @@ body {
     color: #F9FAF8;
     padding: 8px 32px;
     border-radius: 10px;
-    border: #1F2937;
 }
 
 .header {
@@ -168,4 +166,8 @@ ul {
     display: flex;
     justify-content: center;
     padding: 30px 0;
+}
+
+a {
+    text-decoration: none;
 }

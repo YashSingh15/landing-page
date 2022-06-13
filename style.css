@@ -92,3 +92,13 @@ ul {
     display: flex;
     justify-content: center;
 }
+
+.illustrations {
+    width: 60vw;
+    display: flex;
+    margin: 0 auto;
+}
+
+.illustration {
+    text-align: center;
+}
